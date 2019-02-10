@@ -1,0 +1,2 @@
+# Como_gerar_Amostra
+Nessas_aulas_aprendendo_a_gerar_amostra_de_dados
